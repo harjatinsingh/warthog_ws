@@ -1,0 +1,2 @@
+CaveNavStack/boost_nav_vision:boost_gps_line_follower:gps_umd/gps_common:gps_umd/gps_umd:gps_umd/gpsd_client:nmea_gps_driver_mod:nmea_msgs:nmea_navsat_driver:velodyne/velodyne:velodyne/velodyne_driver:velodyne/velodyne_laserscan:velodyne/velodyne_msgs:velodyne/velodyne_pointcloud
+-DCATKIN_DEVEL_PREFIX=/home/robocrop/warthog_ws/devel -DCMAKE_INSTALL_PREFIX=/home/robocrop/warthog_ws/install -G Unix Makefiles

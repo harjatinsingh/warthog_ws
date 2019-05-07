@@ -1,0 +1,8 @@
+prefix=/home/robocrop/warthog_ws/devel
+
+Name: nmea_gps_driver_mod
+Description: Description of nmea_gps_driver_mod
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/robocrop/warthog_ws/devel/lib -lnmea_gps_driver_mod
+Requires: roscpp sensor_msgs std_msgs sensor_msgs std_msgs geometry_msgs message_filters geographic_msgs geodesy tf

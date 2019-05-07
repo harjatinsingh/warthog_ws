@@ -1,0 +1,8 @@
+prefix=/home/robocrop/warthog_ws/install
+
+Name: velodyne_laserscan
+Description: Description of velodyne_laserscan
+Version: 1.5.2
+Cflags: -I/home/robocrop/warthog_ws/install/include
+Libs: -L/home/robocrop/warthog_ws/install/lib 
+Requires: sensor_msgs

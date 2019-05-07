@@ -1,0 +1,8 @@
+prefix=/home/robocrop/warthog_ws/install
+
+Name: boost_gps_line_follower
+Description: Description of boost_gps_line_follower
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/robocrop/warthog_ws/install/lib 
+Requires: 
